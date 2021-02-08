@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework-jwt
+django-cors-headers
+django_extensions
+mysqlclient
+coreapi
